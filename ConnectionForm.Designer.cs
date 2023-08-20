@@ -65,7 +65,7 @@ namespace WinFormsClSv
             textBox4.Size = new Size(181, 34);
             textBox4.TabIndex = 0;
             textBox4.TabStop = false;
-            textBox4.Text = "10.22.131.248";
+            textBox4.Text = Local.ip;
             // 
             // label4
             // 
